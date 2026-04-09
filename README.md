@@ -1,85 +1,100 @@
-<!-- SUPREME GITHUB PROFILE README -->
-<!-- Created with precision and supreme aesthetics -->
+<!-- GOD LEVEL ANIMATED GITHUB PROFILE README -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Manoj%20Peri&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=300&section=header&text=Manoj%20Peri&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" />
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=B.Tech+2nd+Year+Student;Data+Science+Enthusiast;Python+%26+ML+Developer;Problem+Solver" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=FF3CAC&center=true&vCenter=true&width=700&lines=🚀+Data+Science+Enthusiast;💻+Python+%26+ML+Developer;🧠+AI+Builder;⚡+Problem+Solver;🔥+Consistency+Beats+Talent" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
 </div>
 
 ---
 
-### 💫 About Me
-<p align="left">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm a <b>B.Tech 2nd year CSE (Data Science)</b> student.
-</p>
+### 🧠 About Me
+<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🚀 **Mission**: Building efficient data-driven solutions and breaking complex problems into simple logic.
-- 🤝 **Collaborate**: Looking for beginner-friendly tech projects and help with **DSA & Data Science**.
-- 🌱 **Learning**: Currently mastering *Python, DSA, ML, DL, and AI Chatbots*.
-- 💬 **Ask Me**: About programming, college life, or learning resources.
-- ⚡ **Fun Fact**: Sometimes lazy, but always efficient — I find the shortest path to the best solution.
+- 🎓 B.Tech CSE (Data Science) – 2nd Year  
+- 🚀 Building **real-world ML & Data Science projects**  
+- 🤝 Open to collaboration (DSA + ML)  
+- 🌱 Learning: **Deep Learning, AI Systems, Chatbots**  
+- ⚡ I prefer **smart work over hard work**  
 
 ---
 
-### 🌐 Connect with Me
-<div align="left">
-  <a href="https://instagram.com/manojperi26" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://x.com/manojperi26" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
-  </a>
-  <a href="mailto:manojperi26@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/manojperi26" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
----
-
-### 💻 Tech Stack
+### ⚙️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,html,css,sklearn,pandas,numpy,matplotlib,github&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,html,css,sklearn,pandas,numpy,matplotlib,github&theme=dark" />
 </div>
+
+---
+
+### 🚀 Featured Project
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
+</div>
+
+🔹 **Alzheimer’s MRI Classification (VGG16 Transfer Learning)**  
+✨ Achieved **~98% accuracy**  
+🧠 Used **transfer learning + fine-tuning**  
+📊 Applied **data augmentation**  
+
+👉 https://github.com/manojperi26/Alzheimer  
 
 ---
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=manojperi26&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=manojperi26&theme=radical&hide_border=false" alt="Streak" /></td>
-    </tr>
-  </table>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojperi26&layout=compact&theme=radical&hide_border=false" alt="Langs" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manojperi26&theme=radical&hide_border=false" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manojperi26&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff3cac&icon_color=ff3cac" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojperi26&theme=radical&background=0d1117&ring=ff3cac&fire=ff3cac" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojperi26&layout=compact&theme=radical&bg_color=0d1117&title_color=ff3cac" height="150"/>
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manojperi26&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=manojperi26&theme=radical&no-bg=true&margin-w=10&margin-h=10"/>
 </div>
 
 ---
 
-### ✍️ Developer Zen
+### 🌐 Connect With Me
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <a href="https://instagram.com/manojperi26"><img src="https://img.shields.io/badge/Instagram-ff3cac?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/manojperi26"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:manojperi26@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://x.com/manojperi26"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+</div>
+
+---
+
+### 🔥 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manojperi26&theme=react-dark&bg_color=0d1117&color=ff3cac&line=ff3cac&point=ffffff" width="100%"/>
+</div>
+
+---
+
+### 💬 Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=manojperi26&icon=5&color=ff3cac"/>
 </div>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=manojperi26&icon=0&color=0" alt="Visitor Count" />
+  <h3>⚡ "Code. Learn. Build. Repeat." ⚡</h3>
 </div>
 
-<!-- Powered by Manoj's Supreme Design -->
+<!-- MADE WITH GOD MODE 🔥 -->
