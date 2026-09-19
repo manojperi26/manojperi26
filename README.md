@@ -10,8 +10,8 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-CSE-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-IIT%20Indore-4C1D95?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.Tech-CSE-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-IIT%20Indore-4C1D95?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 <img src="https://img.shields.io/badge/Location-Phagwara%2C%20Punjab-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
@@ -33,7 +33,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=manojperi26&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/manojperi26?style=for-the-badge&color=6366F1&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/manojperi26?style=for-the-badge&color=8B5CF6&label=STARS"/>
+<img src="https://img.shields.io/github/stars/manojperi26/Alzheimer?style=for-the-badge&color=8B5CF6&label=STARS"/>
 
 </div>
 
@@ -71,7 +71,8 @@ I approach engineering with a **product mindset**: understand the problem, build
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,streamlit&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+<img src="https://img.shields.io/badge/Streamlit-6D28D9?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 ### Backend & Databases
@@ -93,12 +94,12 @@ I approach engineering with a **product mindset**: understand the problem, build
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Scikit--learn-7C3AED?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-4C1D95?style=flat-square&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-7C3AED?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-4C1D95?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-6366F1?style=flat-square&logo=powerbi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-312E81?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-6D28D9?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-7C3AED?style=flat-square&logo=googletranslate&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-7C3AED?style=flat-square"/>
 </p>
 
 ---
@@ -253,7 +254,7 @@ Worked on machine-learning-driven solutions across data preparation, model devel
 
 ### Intellipaat
 
-<img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-IIT%20Indore%20%7C%20Intellipaat-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-IIT%20Indore%20%7C%20Intellipaat-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 
 **DRISHTI CPS — AI & Data Science Certification, IIT Indore** · Jun 2026
 
@@ -270,7 +271,7 @@ Worked on machine-learning-driven solutions across data preparation, model devel
 
 ### Lovely Professional University
 
-<img src="https://img.shields.io/badge/AI%20Engineer%20Launchpad-Mastering%20LLMs%20%26%20Agentic%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Engineer%20Launchpad-Mastering%20LLMs%20%26%20Agentic%20AI-7C3AED?style=for-the-badge"/>
 
 **AI Engineer Launchpad: Mastering LLMs and Agentic AI** · Aug 2026
 
@@ -285,16 +286,16 @@ Worked on machine-learning-driven solutions across data preparation, model devel
 
 <div align="center">
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/manojperi26">
   <img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
-<a href="https://www.geeksforgeeks.org/">
+<a href="https://www.geeksforgeeks.org/user/manojperi26">
   <img src="https://img.shields.io/badge/GeeksforGeeks-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
-<a href="https://www.hackerrank.com/">
+<a href="https://www.hackerrank.com/profile/manojperi26">
   <img src="https://img.shields.io/badge/HackerRank-6366F1?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
-<a href="https://www.codechef.com/">
+<a href="https://www.codechef.com/users/manojperi26">
   <img src="https://img.shields.io/badge/CodeChef-312E81?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
@@ -308,7 +309,7 @@ Worked on machine-learning-driven solutions across data preparation, model devel
 
 <img src="https://github-readme-stats.vercel.app/api?username=manojperi26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manojperi26&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=manojperi26&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD" height="180"/>
 
 </div>
 
@@ -384,6 +385,7 @@ current_focus:
     - Data Science Opportunities
     - AI Research
     - Open Source Collaboration
+```
 
 ---
 
