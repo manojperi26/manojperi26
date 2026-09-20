@@ -16,7 +16,7 @@ OUT = sys.argv[1] if len(sys.argv) > 1 else "stats.svg"
 QUERY = """
 query($login: String!) {
   user(login: $login) {
-    repositories(ownerAffiliation: OWNER, isFork: false, privacy: PUBLIC, first: 100) {
+    repositories(ownerAffiliations: [OWNER], isFork: false, privacy: PUBLIC, first: 100) {
       totalCount
       nodes {
         languages(first: 6, orderBy: {field: SIZE, direction: DESC}) {
