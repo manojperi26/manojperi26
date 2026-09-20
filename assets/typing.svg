@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 56" width="900" height="56" role="img" aria-label="Building LLM apps that answer real questions; RAG systems  |  ReAct agents  |  Computer vision; 97.89% MRI accuracy  |  91% query accuracy; Turning messy data into shipped products">
+<defs><linearGradient id="t" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#C4B5FD"/><stop offset="0.5" stop-color="#818CF8"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+<clipPath id="c0"><rect x="159.6" y="0" width="0" height="56"><animate attributeName="width" values="0;581;581;0;0" keyTimes="0;0.095;0.225;0.250;1" dur="14.4s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c1"><rect x="133.2" y="0" width="0" height="56"><animate attributeName="width" values="0;0;634;634;0;0" keyTimes="0;0.250;0.345;0.475;0.500;1" dur="14.4s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c2"><rect x="172.8" y="0" width="0" height="56"><animate attributeName="width" values="0;0;554;554;0;0" keyTimes="0;0.500;0.595;0.725;0.750;1" dur="14.4s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c3"><rect x="186.0" y="0" width="0" height="56"><animate attributeName="width" values="0;0;528;528;0" keyTimes="0;0.750;0.845;0.975;1" dur="14.4s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<text x="159.6" y="36" clip-path="url(#c0)" font-family="'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="22" font-weight="600" fill="url(#t)" xml:space="preserve">Building LLM apps that answer real questions</text>
+<text x="133.2" y="36" clip-path="url(#c1)" font-family="'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="22" font-weight="600" fill="url(#t)" xml:space="preserve">RAG systems  |  ReAct agents  |  Computer vision</text>
+<text x="172.8" y="36" clip-path="url(#c2)" font-family="'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="22" font-weight="600" fill="url(#t)" xml:space="preserve">97.89% MRI accuracy  |  91% query accuracy</text>
+<text x="186.0" y="36" clip-path="url(#c3)" font-family="'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="22" font-weight="600" fill="url(#t)" xml:space="preserve">Turning messy data into shipped products</text>
+</svg>

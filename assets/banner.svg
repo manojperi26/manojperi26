@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Manoj Peri - AI and ML Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0A1F"/>
+      <stop offset="0.55" stop-color="#2E1065">
+        <animate attributeName="stop-color" values="#2E1065;#4C1D95;#312E81;#2E1065" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#0B0A1F"/>
+    </linearGradient>
+    <linearGradient id="txt" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0">
+      <stop offset="0" stop-color="#C4B5FD"/>
+      <stop offset="0.35" stop-color="#818CF8"/>
+      <stop offset="0.65" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#C4B5FD"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-500 0;500 0;-500 0" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6D28D9" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0.35"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4C1D95" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#6366F1" stop-opacity="0.45"/>
+    </linearGradient>
+    <linearGradient id="pill" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#A78BFA" fill-opacity="0.22"/>
+    </pattern>
+    <clipPath id="round"><rect width="1200" height="300" rx="22"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#dots)"/>
+
+    <g filter="url(#blur)">
+      <circle cx="180" cy="80" r="110" fill="#7C3AED" fill-opacity="0.55">
+        <animate attributeName="cx" values="180;320;180" dur="14s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="80;150;80" dur="11s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1000" cy="90" r="120" fill="#06B6D4" fill-opacity="0.35">
+        <animate attributeName="cx" values="1000;860;1000" dur="16s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="90;30;90" dur="12s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="640" cy="290" r="100" fill="#6366F1" fill-opacity="0.4">
+        <animate attributeName="cx" values="640;760;640" dur="13s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <path fill="url(#wave1)" d="M0 238 Q150 198 300 238 T600 238 T900 238 T1200 238 T1500 238 T1800 238 T2100 238 T2400 238 V300 H0 Z">
+      <animateTransform attributeName="transform" type="translate" values="0 0;-1200 0" dur="16s" repeatCount="indefinite"/>
+    </path>
+    <path fill="url(#wave2)" d="M0 262 Q200 226 400 262 T800 262 T1200 262 T1600 262 T2000 262 T2400 262 V300 H0 Z">
+      <animateTransform attributeName="transform" type="translate" values="-1200 0;0 0" dur="11s" repeatCount="indefinite"/>
+    </path>
+
+    <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" text-anchor="middle">
+      <text x="600" y="130" font-size="92" font-weight="800" letter-spacing="6" fill="url(#txt)">MANOJ PERI</text>
+      <text x="600" y="180" font-size="26" font-weight="500" fill="#E9E5FF" fill-opacity="0.92" letter-spacing="1.5">AI / ML Engineer  ·  LLMs  ·  RAG  ·  Agentic AI</text>
+      <rect x="440" y="203" width="320" height="34" rx="17" fill="url(#pill)">
+        <animate attributeName="opacity" values="1;0.8;1" dur="3s" repeatCount="indefinite"/>
+      </rect>
+      <text x="600" y="226" font-size="16" font-weight="700" fill="#FFFFFF" letter-spacing="1">OPEN TO AI / ML INTERNSHIPS</text>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1198" height="298" rx="21" fill="none" stroke="#A78BFA" stroke-opacity="0.35"/>
+</svg>

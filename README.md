@@ -1,427 +1,172 @@
 <div align="center">
 
-<a href="https://capsule-render.vercel.app/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:4C1D95&height=220&section=header&text=MANOJ%20PERI&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-</a>
+<img src="assets/banner.svg" alt="Manoj Peri - AI / ML Engineer" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Engineer;Software+Engineering+%7C+Machine+Learning;LLMs+%7C+RAG+%7C+Agentic+AI;Building+Intelligent+%26+Scalable+Systems" alt="Typing SVG" />
-</a>
+<img src="assets/typing.svg" alt="Building LLM apps, RAG systems, ReAct agents and computer vision models" width="100%"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-CSE-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-IIT%20Indore-4C1D95?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-Phagwara%2C%20Punjab-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<a href="https://portfolio-peri-manoj.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/manojperi26"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:manojperi26@gmail.com"><img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/manojperi26"><img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
 
-<a href="https://portfolio-manoj-nine.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/manojperi26">
-  <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:manojperi@gmail.com">
-  <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/manojperi26">
-  <img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/B.Tech%20CSE-AI%20%26%20Data%20Science-7C3AED?style=flat-square&logo=googlescholar&logoColor=white" alt="B.Tech CSE, AI and Data Science"/>
+<img src="https://img.shields.io/badge/Lovely%20Professional%20University-4C1D95?style=flat-square" alt="Lovely Professional University"/>
+<img src="https://img.shields.io/badge/Certified-IIT%20Indore%20DRISHTI%20CPS-6366F1?style=flat-square" alt="IIT Indore DRISHTI CPS certification"/>
+<img src="https://img.shields.io/badge/Punjab%2C%20India-0891B2?style=flat-square&logo=googlemaps&logoColor=white" alt="Punjab, India"/>
+
+</div>
+
+<br/>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## ⚡ Impact at a glance
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="25%"><h2>97.89%</h2><sub><b>MRI classification accuracy</b><br/>4-stage Alzheimer's detection, VGG16</sub></td>
+    <td align="center" width="25%"><h2>91%</h2><sub><b>Query interpretation accuracy</b><br/>LLM agent that analyzes CSVs</sub></td>
+    <td align="center" width="25%"><h2>R² 0.93</h2><sub><b>Sales forecasting</b><br/>6,435 records · 45 stores</sub></td>
+    <td align="center" width="25%"><h2>ML Intern</h2><sub><b>Endeavour Technologies</b><br/>Jun – Aug 2026</sub></td>
+  </tr>
+</table>
+</div>
+
+I build **LLM applications, RAG systems and ML models** and take them all the way to something people can use: data prep, training, evaluation, APIs, and a working interface. I care about **reliability**, so I debug agent failures, measure accuracy, and ship deployed demos rather than notebooks.
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 🚀 Featured Projects
+
+### 🧠 DataWhisperer: chat with any CSV
+Ask questions about a dataset in plain English. A **LangChain ReAct agent** on **Llama 3.3 70B (Groq)** plans multi-step analysis, computes the answer and renders charts on the fly.
+
+![Accuracy](https://img.shields.io/badge/91%25-query%20interpretation%20accuracy-7C3AED?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+
+- Fixed the agent's real failure modes: **iteration-limit crashes, schema injection and numeric-column handling**
+- Resolved chart-rendering bugs to make the flow reliable end to end
+- Deployed live (via ngrok) so it can be tried, not just read
+
+[![Code](https://img.shields.io/badge/View%20Code-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manojperi26/data-whisper)
+
+<br/>
+
+### 🧬 Alzheimer's MRI Detection: 97.89% accuracy
+A medical-imaging classifier that sorts MRI scans into **four Alzheimer's severity stages** using **VGG16 transfer learning**, wrapped in a Streamlit interface.
+
+![Accuracy](https://img.shields.io/badge/97.89%25-classification%20accuracy-7C3AED?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+- Built the full 4-class pipeline: preprocessing, augmentation, training and evaluation
+- Used a **two-phase transfer-learning strategy** on VGG16
+
+[![Code](https://img.shields.io/badge/View%20Code-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manojperi26/Alzheimer)
+
+<br/>
+
+### 📄 VeriDoc: document Q&A you can trust
+Upload documents and ask questions in natural language, getting answers grounded in the source material.
+<!-- TODO: add 2-3 bullets (approach, stack, any measured result) and matching stack badges -->
+
+[![Code](https://img.shields.io/badge/View%20Code-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manojperi26/veri-doc)
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 💼 Experience
+
+**Software Intern · Endeavour Technologies** &nbsp;·&nbsp; *Jun 2026 – Aug 2026*
+
+- Researched and preprocessed data, then **trained and evaluated ML models** for AI-driven data solutions
+- Contributed to model design decisions and **debugged model and pipeline issues**
+- Documented processes and fixes, and worked with engineering teams and stakeholders through delivery
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 🛠️ Toolkit
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 🎓 Certifications
+
+| Certification | Issuer | When |
+|:---|:---|:---|
+| **Executive Professional Certification in Generative AI & Machine Learning** | IIT Indore (DRISHTI CPS Foundation) via Intellipaat | Jun 2026 |
+| **AI Engineer Launchpad: Mastering LLMs and Agentic AI** | Lovely Professional University | Aug 2026 |
+| **Python** · **SQL** | Intellipaat | – |
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 📊 Live GitHub Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/manojperi26/manojperi26/output/stats.svg" alt="GitHub stats" width="100%"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=manojperi26&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/manojperi26?style=for-the-badge&color=6366F1&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/manojperi26/Alzheimer?style=for-the-badge&color=8B5CF6&label=STARS"/>
-
-</div>
-
----
-
-## About
-
-I am a **Computer Science & Engineering student** focused on building intelligent software systems at the intersection of **software engineering, artificial intelligence, machine learning, and data science**.
-
-My work spans the complete development lifecycle — from data preprocessing and model development to AI application engineering, API development, deployment, and user-facing interfaces.
-
-I enjoy turning complex datasets and AI capabilities into **reliable, practical, and scalable products**. My current interests include **Machine Learning, Deep Learning, LLMs, RAG systems, Agentic AI, NLP, computer vision, and AI-powered applications**.
-
-I approach engineering with a **product mindset**: understand the problem, build the right abstraction, validate the result, and continuously improve reliability and usability.
-
-### Open To
-
-- AI / ML Engineering Internships
-- Software Engineering Internships
-- Data Science & Machine Learning Roles
-- Generative AI & LLM Projects
-- Open-Source Collaboration
-- Research & Applied AI Opportunities
-
----
-
-## Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql&theme=dark" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-<img src="https://img.shields.io/badge/Streamlit-6D28D9?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
-
-### Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,mysql&theme=dark" />
-</p>
-
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
-</p>
-
-### Cloud, DevOps & Tooling
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Scikit--learn-7C3AED?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-4C1D95?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-6366F1?style=flat-square&logo=powerbi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-312E81?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-6D28D9?style=flat-square"/>
-<img src="https://img.shields.io/badge/NLP-7C3AED?style=flat-square"/>
-</p>
-
----
-
-## AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| Machine Learning | Advanced | Model development, evaluation, preprocessing, feature engineering |
-| Deep Learning | Advanced | TensorFlow, Keras, PyTorch, transfer learning |
-| Computer Vision | Advanced | MRI classification, image preprocessing, OpenCV, VGG16 |
-| Generative AI | Advanced | LLM applications, prompt engineering, RAG, AI agents |
-| LLM Engineering | Advanced | LangChain, ReAct agents, Groq-hosted LLMs |
-| NLP | Intermediate | Natural-language interfaces and LLM-powered applications |
-| Data Science | Advanced | EDA, statistics, forecasting, data analysis |
-| Model Evaluation | Advanced | Accuracy, R², reliability analysis, model debugging |
-| AI Application Development | Advanced | Streamlit, FastAPI, agentic workflows and deployment |
-
----
-
-## Featured Projects
-
-<details>
-<summary><b>01 — Data Whisperer</b> · AI-Powered Natural Language Data Analysis Agent</summary>
-
-<br/>
-
-**Data Whisperer** is a Streamlit-based intelligent CSV analysis system that allows users to interact with structured datasets using natural language.
-
-Built using **LangChain's ReAct framework** and **Groq-hosted Llama 3.3 70B**, the system interprets user requests, performs multi-step reasoning, generates actionable insights, and produces charts dynamically.
-
-| Metric | Details |
-|:---|:---|
-| **Stack** | Python · Streamlit · LangChain · Groq · Llama 3.3 70B |
-| **Scale** | CSV-based analytical datasets |
-| **Performance** | **91% query interpretation accuracy** |
-| **Security** | Controlled agent workflow and bounded execution |
-| **Impact** | Natural-language interface for automated data analysis |
-| **Repository** | [GitHub Repository](https://github.com/manojperi26) |
-
-**Engineering Highlights**
-
-- Implemented LangChain's **ReAct agent architecture** for autonomous multi-step reasoning.
-- Integrated **Llama 3.3 70B through Groq** for natural-language understanding.
-- Automatically generated actionable insights and visualizations.
-- Debugged agent iteration-limit failures.
-- Resolved chart-rendering issues to improve end-to-end reliability.
-- Deployed the application through **ngrok** for live accessibility.
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>02 — Alzheimer's Detection System</b> · MRI Classification with VGG16</summary>
-
-<br/>
-
-An AI-powered medical imaging classification system designed to classify MRI scans across **four Alzheimer's disease severity stages** using transfer learning.
-
-| Metric | Details |
-|:---|:---|
-| **Stack** | Python · TensorFlow · Keras · VGG16 · Streamlit |
-| **Scale** | Multi-class MRI image classification |
-| **Performance** | **97.89% classification accuracy** |
-| **Security** | Medical-data processing focused architecture |
-| **Impact** | Automated classification support across four disease stages |
-| **Repository** | [GitHub Repository](https://github.com/manojperi26/Alzheimer) |
-
-**Engineering Highlights**
-
-- Built a **4-class MRI classification pipeline**.
-- Applied **VGG16 transfer learning**.
-- Implemented a two-phase training strategy.
-- Preprocessed and augmented MRI images across all four classes.
-- Achieved **97.89% classification accuracy**.
-- Developed a Streamlit interface for model interaction.
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>03 — Walmart Sales Forecasting</b> · Retail Demand Prediction</summary>
-
-<br/>
-
-A machine learning forecasting project analyzing Walmart retail data to identify seasonal and economic patterns and generate future sales predictions.
-
-| Metric | Details |
-|:---|:---|
-| **Stack** | Python · Scikit-learn · Random Forest |
-| **Scale** | **6,435 retail records · 45 stores** |
-| **Performance** | **R² = 0.93** |
-| **Security** | Structured data processing and validation |
-| **Impact** | Data-driven inventory and demand planning |
-| **Repository** | [GitHub Repository](https://github.com/manojperi26) |
-
-**Engineering Highlights**
-
-- Analyzed **6,435 retail records across 45 stores**.
-- Investigated seasonal trends and economic factors.
-- Built a **Random Forest regression model**.
-- Generated **12-week sales forecasts**.
-- Achieved **R² = 0.93** on weekly sales forecasting.
-- Applied model outputs toward inventory and demand planning.
-
-</details>
-
----
-
-## Experience
-
-### Software Intern · Endeavour Technologies
-
-**Jun 2026 – Aug 2026**
-
-Worked on machine-learning-driven solutions across data preparation, model development, evaluation, debugging, and delivery.
-
-**Scope of Work**
-
-- Researched and preprocessed data for machine learning model development.
-- Contributed to model design and implementation decisions.
-- Trained and evaluated machine learning models.
-- Debugged model and pipeline issues.
-- Documented technical processes and issue resolutions.
-- Collaborated with stakeholders and engineering teams.
-- Contributed to delivery of AI-driven data solutions end-to-end.
-
-**Skills**
-
-`Machine Learning` `Python` `Data Preprocessing` `Model Evaluation` `Debugging` `AI Solutions` `Technical Documentation`
-
----
-
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:---|:---|
-| **AI / ML Project Performance** | Alzheimer's MRI classification achieved **97.89% accuracy** |
-| **AI Agent Engineering** | Data Whisperer achieved **91% query interpretation accuracy** |
-| **Forecasting Performance** | Walmart sales forecasting achieved **R² = 0.93** |
-| **Industry Experience** | Completed Software Internship at **Endeavour Technologies** |
-
-</div>
-
----
-
-## Certifications
-
-### Intellipaat
-
-<img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-IIT%20Indore%20%7C%20Intellipaat-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-
-**DRISHTI CPS — AI & Data Science Certification, IIT Indore** · Jun 2026
-
-**Professional Certification in AI & Data Science** · Feb 2025 – Jun 2026
-
-- Statistics, EDA and applied machine learning
-- XGBoost, SHAP and time-series forecasting
-- SQL, Excel and modern Python
-- Deep Learning with PyTorch
-- Transformers and Generative AI
-- LLM and RAG concepts
-- Cloud MLOps and model deployment
-- Power BI and Copilot
-
-### Lovely Professional University
-
-<img src="https://img.shields.io/badge/AI%20Engineer%20Launchpad-Mastering%20LLMs%20%26%20Agentic%20AI-7C3AED?style=for-the-badge"/>
-
-**AI Engineer Launchpad: Mastering LLMs and Agentic AI** · Aug 2026
-
-### Technical Certifications
-
-<img src="https://img.shields.io/badge/Python-Intellipaat-6366F1?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-Intellipaat-4C1D95?style=for-the-badge&logo=mysql&logoColor=white"/>
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/manojperi26">
-  <img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-<a href="https://www.geeksforgeeks.org/user/manojperi26">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-<a href="https://www.hackerrank.com/profile/manojperi26">
-  <img src="https://img.shields.io/badge/HackerRank-6366F1?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-<a href="https://www.codechef.com/users/manojperi26">
-  <img src="https://img.shields.io/badge/CodeChef-312E81?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=manojperi26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED" height="180"/>
-
-<img src="https://streak-stats.demolab.com/?user=manojperi26&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD" height="180"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojperi26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8" height="180"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=manojperi26&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manojperi26&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/manojperi26/manojperi26/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-## Current Focus
-
-```yaml
-current_focus:
-  Learning:
-    - Advanced Machine Learning
-    - Deep Learning
-    - LLM Engineering
-    - RAG Systems
-    - Agentic AI
-    - Data Structures & Algorithms
-
-  Building:
-    - AI-powered data applications
-    - Intelligent agents
-    - Machine learning systems
-    - Production-oriented AI applications
-
-  Exploring:
-    - Generative AI
-    - Multimodal AI
-    - NLP
-    - Computer Vision
-    - MLOps
-    - Scalable AI architectures
-
-  Open To:
-    - AI/ML Internships
-    - Software Engineering Internships
-    - Data Science Opportunities
-    - AI Research
-    - Open Source Collaboration
-```
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="mailto:manojperi@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/manojperi26">
-  <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/manojperi26">
-  <img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://portfolio-manoj-nine.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-312E81?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<img src="https://raw.githubusercontent.com/manojperi26/manojperi26/output/game.gif" alt="Contribution graph as a space shooter game" width="100%"/>
 
 <br/><br/>
 
-<a href="mailto:manojperi@gmail.com">
-  <img src="https://img.shields.io/badge/manojperi%40gmail.com-A78BFA?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://raw.githubusercontent.com/manojperi26/manojperi26/output/snake.svg" alt="Contribution snake" width="100%"/>
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 🎯 Currently
+
+- **Learning:** advanced ML, LLM engineering, RAG systems, agentic AI, DSA
+- **Building:** AI-powered data apps and intelligent agents
+- **Exploring:** multimodal AI, MLOps, scalable AI architectures
+- **Open to:** AI / ML internships, especially at product companies
+
+<br/>
 
 <div align="center">
 
-<a href="https://capsule-render.vercel.app/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:312E81&height=120&section=footer&animation=fadeIn" width="100%"/>
-</a>
+### Let's build something intelligent.
 
-**Build intelligently. Engineer relentlessly. Ship with purpose.**
+<a href="mailto:manojperi26@gmail.com"><img src="https://img.shields.io/badge/Say%20hello-manojperi26%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/></a>
+
+<sub>Build intelligently. Engineer relentlessly. Ship with purpose.</sub>
 
 </div>
